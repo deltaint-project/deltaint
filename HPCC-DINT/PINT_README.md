@@ -1,4 +1,4 @@
-# HPCC-DINT simulation
+# HPCC-PINT simulation
 
 ## NS-3 simulation
 The ns-3 simulation is under `simulation/`. Refer to the README.md under it for more details.
